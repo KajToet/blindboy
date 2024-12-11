@@ -64,3 +64,9 @@ http://riperiperi.github.io/amebo/gbsplayer.html
 - Super Gameboy mode
 - Downsample audio from high frequency/generate antialiased waves
 - IDE for assembling and debugging gameboy programs.
+
+## BlindBoy to do
+
+-  A diff tool to compare savestates/RAM
+-  A regex tool to find savestate/RAM changes
+-  Specify framerate
