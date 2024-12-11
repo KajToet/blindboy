@@ -72,3 +72,4 @@ http://riperiperi.github.io/amebo/gbsplayer.html
 -  Specify framerate
 -  Implement Tone.js or other sound player for BlindBoy sound effects
 -  Start with which videogame? Zelda?
+-  In which case, can I capture text correctly through savestate? TTS from Google using Meta-referrer blocking?
