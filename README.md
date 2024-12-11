@@ -70,3 +70,5 @@ http://riperiperi.github.io/amebo/gbsplayer.html
 -  A diff tool to compare savestates/RAM
 -  A regex tool to find savestate/RAM changes
 -  Specify framerate
+-  Implement Tone.js or other sound player for BlindBoy sound effects
+-  Start with which videogame? Zelda?
