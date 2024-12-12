@@ -67,6 +67,8 @@ http://riperiperi.github.io/amebo/gbsplayer.html
 
 ## BlindBoy to do
 
+Blindboy is customized to each game. I wonder which game I should start with.
+
 -  A diff tool to compare savestates/RAM
 -  A regex tool to find savestate/RAM changes
 -  Specify framerate
